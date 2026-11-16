@@ -1,5 +1,4 @@
 杏吧资源-https://xingba111.com/api.php/provide/vod/at/xml
-无水印资源采集-https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/
 精品98资源采集（翻）-https://jp98.vip/api.php/provide/vod/at/xml
 CK资源采集（翻）-https://ckzy.me/api.php/provide/vod/at/xml
 美少女资源-https://www.msnii.com/api/json.php
