@@ -11,7 +11,6 @@
 百度资源-https://api.apibdzy.com/api.php/provide/vod/at/xmlsea/
 茅台资源-https://caiji.maotaizy.cc/api.php/provide/vod/at/xmlsea/
 电影天堂资源-http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/
-量子-https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/
 咕噜咕噜资源采集-https://bfzyapi.com/api.php/provide/vod/
 司都资源-http://y.ds05.cn/zyapi.php
 最大资源-https://api.zuidapi.com/api.php/provide/vod
@@ -20,7 +19,6 @@
 海豚资源-https://hhzyapi.com/api.php/provide/vod
 鲸鱼资源-https://jyzyapi.com/provide/vod
 樱花资源-https://m3u8.apiyhzy.com/api.php/provide/vod
-步步高好像坏了-https://api.yparse.com/api/json
 牛牛点播-https://api.niuniuzy.me/api.php/provide/vod
 索尼资源-https://suoniapi.com/api.php/provide/vod
 豆瓣资源-https://dbzy.tv/api.php/provide/vod
@@ -29,3 +27,11 @@
 闪电资源-https://sdzyapi.com/api.php/provide/vod
 飘零资源-https://p2100.net/api.php/provide/vod
 无尽资源-https://api.wujinapi.com/api.php/provide/vod/
+红牛资源-https://www.hongniuzy2.com/api.php/provide/vod/
+1080zyk-https://api.yzzy-api.com/inc/apijson.php
+ikun资源-https://ikunzyapi.com/api.php/provide/vod/
+如意资源-https://cj.rycjapi.com/api.php/provide/vod/
+U酷资源-https://api.ukuapi.com/api.php/provide/vod/
+猫眼资源-https://api.maoyanapi.top/api.php/provide/vod/
+非凡资源-https://api.ffzyapi.com/api.php/provide/vod/
+无水印资源-https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/
