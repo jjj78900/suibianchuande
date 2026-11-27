@@ -35,3 +35,4 @@ U酷资源-https://api.ukuapi.com/api.php/provide/vod/
 猫眼资源-https://api.maoyanapi.top/api.php/provide/vod/
 非凡资源-https://api.ffzyapi.com/api.php/provide/vod/
 无水印资源-https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/
+艾旦资源-https://www.lovedan.net/api.php/provide/vod
