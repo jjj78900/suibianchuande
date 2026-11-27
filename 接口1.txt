@@ -36,3 +36,6 @@ U酷资源-https://api.ukuapi.com/api.php/provide/vod/
 非凡资源-https://api.ffzyapi.com/api.php/provide/vod/
 无水印资源-https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/
 艾旦资源-https://www.lovedan.net/api.php/provide/vod
+速播资源-https://subocj.com/api.php/provide/vod
+OK资源-https://okzyw.cc/api.php/provide/vod
+建安资源-http://154.219.117.232:9981/jacloudapi.php/provide/vod
